@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "愚者の独白",
+  "base_artist": "アンティーカ",
+  "createdAt": "2026-03-20T08:32:26.787220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愚者の独白",
+      "artist": "アンティーカ",
+      "has_synced": false,
+      "path": "select/01_愚者の独白_アンティーカ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愚者の独白 (Off Vocal)",
+      "artist": "アンティーカ (礒部花凜, 菅沼千紗, 八巻アンナ, 希水しお, 結名美月)",
+      "has_synced": false,
+      "path": "select/02_愚者の独白_(Off_Vocal)_アンティーカ_(礒部花凜,_菅沼千紗,_八巻アンナ,_希水しお,_結名美月).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愚者の独白",
+      "artist": "アンティーカ (礒部花凜, 菅沼千紗, 八巻アンナ, 希水しお, 結名美月)",
+      "has_synced": false,
+      "path": "select/03_愚者の独白_アンティーカ_(礒部花凜,_菅沼千紗,_八巻アンナ,_希水しお,_結名美月).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愚者の独白",
+      "artist": "アンティーカ",
+      "has_synced": false,
+      "path": "select/pl_01_愚者の独白_アンティーカ.txt"
+    }
+  ]
+}
